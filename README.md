@@ -1,6 +1,7 @@
 # quiz_app
 
 A new Flutter project. 
+Dart programming language
 (50% completed) - ongoing project
 
 
